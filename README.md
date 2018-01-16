@@ -23,3 +23,13 @@
 	<li>广播专栏</li>
 	<li>豆瓣小组</li>
 </ul>
+#运行方法
+<ul>
+	<li>直接运行dist/index.html</li>
+	<li>
+		<ul>
+			<li>npm install</li>
+			<li>npm run dev</li>
+		</ul>
+	</li>
+</ul>
